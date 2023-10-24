@@ -30,7 +30,7 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [X] List anything else that you added to improve the app!
 - [X] Foward and back buttons added to fetch data
 
 
